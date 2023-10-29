@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 
-- 👨‍💻 All of my projects are available at [https://christians-ash-portfolio-2.webflow.io/](https://christians-ash-portfolio-2.webflow.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://christians-ash-portfolio-2.webflow.io/)
 
 - 📫 How to reach me **ashtownmen@gmail.com**
 
