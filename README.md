@@ -1,4 +1,3 @@
-![image](https://github.com/christianA105/christianA105/assets/136139304/5309a21f-d9f6-4194-aff2-ecdbd249a1c1)
 
 <h1 align="center">Hi 👋, I'm Christian Ash</h1>
 <h3 align="center">A passionate frontend developer from Florida</h3>
