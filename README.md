@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ashtownmen@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/12wDnQaIml_jyupfMIXujPEuDfo3wByZPQWkYdH0v-mk/edit?usp=sharing](https://pdf.ac/1Qtecu)
+- 📄 Know about my experiences [My Resume](https://pdf.ac/1Qtecu)
 
 - ⚡ Fun fact **I Love Pixel Arts**
 
