@@ -8,7 +8,7 @@ I enjoy building responsive, accessible digital experiences with purpose and per
 * 🎨 Interested in **front-end development, UI/UX, pixel art, and 3D design**
 * 🚀 Building polished projects for my developer portfolio
 * 🌱 Currently learning more about **AI and modern development tools**
-* 🌐 View my work on [My Portfolio](https://christians-ash-portfolio-2.webflow.io/)
+* 🌐 View my work on [My Portfolio](https://christiana105.github.io/christian-ash-portfolio/)
 * 📫 Reach me at [ashtownmen@gmail.com](mailto:ashtownmen@gmail.com)
 * ⚡ Fun fact: I love creating **pixel art and original characters**
 
